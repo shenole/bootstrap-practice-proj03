@@ -2,3 +2,18 @@
 	padding: 0;
 	margin: 0;
 }
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.header {
+	height: 300px;
+	background: black;
+}
+
+.container {
+	width: 900px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
