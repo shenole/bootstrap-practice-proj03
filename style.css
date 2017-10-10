@@ -18,6 +18,15 @@ body {
 
 .header2 {
 	height: 300px;
-	background: url('images/01.jpg') no-repeat center fixed;
+	background: url('images/01.jpg') no-repeat center;
 	background-size: cover;
+}
+
+.home-one {
+	margin-bottom: 30px;
+}
+
+.footer {
+	height: 200px;
+	background-color: #222222;
 }
